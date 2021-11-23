@@ -1,1 +1,24 @@
-# HELLO ![mona-whisper](https://user-images.githubusercontent.com/65466643/142957946-7e4205a5-d426-4a71-9e1d-d6e061850e97.gif)
+## 💻 DinoComp 🦕
+### 🖱 Compartilhando conhecimento 
+#### 🚀 *Sharing Knowledge* 
+ 
+ ~~~c
+ for(knowledge; knowledge < ∞ ; knowledge ++)
+ {
+    Share_Knowledge;
+ }
+   ~~~~
+##
+
+#### 💻 *Repositórios:*
+  <div>
+  <a href="https://github.com/Dino-Comp/Arvores">
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dino-Comp&repo=Arvores&theme=ayu-mirage"/>
+  <a href="https://github.com/Dino-Comp/Algoritmos-de-Ordenacao">
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dino-Comp&repo=Algoritmos-de-Ordenacao&theme=ayu-mirage"/> 
+</div>
+    
+
+  
+ 
+  
