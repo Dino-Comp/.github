@@ -1,5 +1,5 @@
 ## 💻 DinoComp 🦕
-### 🖱 Compartilhando conhecimento 
+### 🖱 Incrementando conhecimento 
 #### 🚀 *Sharing Knowledge* 
  
  ~~~c
