@@ -8,6 +8,9 @@
     Share_Knowledge;
  }
    ~~~~
+   
+   #
+
 
 ### 💻 Repositórios:
   <div>
@@ -21,3 +24,9 @@
   
  
   
+#
+ #
+ 
+ # 🚧 em construção 🚧 
+
+## em breve novos conteúdos
